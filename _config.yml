@@ -23,7 +23,7 @@ pages_list:
   Архив записей: '/archive'
   Лента: '/atom.xml'
 
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
   - jekyll-gist
