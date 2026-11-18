@@ -2,6 +2,7 @@
 layout: post
 title: "Adding Rust to an Existing CMake C++ Project"
 permalink: rust-in-cmake-cpp-project
+date: 2026-11-18 20:00:00 +0100
 tags: Rust C++ CMake
 ---
 
