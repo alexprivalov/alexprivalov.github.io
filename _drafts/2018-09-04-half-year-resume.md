@@ -211,8 +211,6 @@ tags: путешествия жизнь
 ![](/assets/half-year-resume-2018/35.jpg)
 ![](/assets/half-year-resume-2018/36.jpg)
 
-<iframe class="gpsies" src="//www.gpsies.com/mapOnly.do?fileId=qmspivhxdbinjpts" width="720" height="480" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0"></iframe>
-<span class="signed-image" style="margin-top: 0px;">Маршрут</span>
 
 Основная концепция движения: вдоль озера Китай с выходом к Дунаю, после паралельное движение против течения реки в сторону Измаила.
 Даты: 28.04.2018 - 01.05.2018.
@@ -245,7 +243,6 @@ tags: путешествия жизнь
 
 ## Водный поход Турунчук-Днестр-Днестровский лиман  {#water_trip}
 
-<iframe class="gpsies" src="//www.gpsies.com/mapOnly.do?fileId=uorokrogvhkioduy" width="720" height="540" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0"></iframe>
 
 <div id="slider6" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 540px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 540px; overflow: hidden;">

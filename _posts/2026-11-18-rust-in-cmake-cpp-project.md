@@ -24,7 +24,7 @@ I work on a Linux system daemon, a large C and C++ codebase built with CMake and
 
 This post is only about the plumbing: how cargo and CMake live in one build. How we moved real modules over one at a time, and how logging and crash reporting work across the language boundary, will be separate posts.
 
-Everything below comes from a small demo project I built while writing this; the snippets are complete and compile on Linux and macOS.
+Everything below comes from a small demo project I built while writing this; the snippets are complete, and the demo builds and runs as shown.
 
 ## The shape
 

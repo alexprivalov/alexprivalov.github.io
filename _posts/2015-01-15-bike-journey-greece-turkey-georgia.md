@@ -10,10 +10,6 @@ tags: велопутешествия
 
 ---
 
-Маршрут поездки:
-
-<iframe src="http://www.gpsies.com/mapOnly.do?fileId=cssrunrojkdvdyei" width="720" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-
 
 ## Содержание
 - [Турция](#turkey)

@@ -18,10 +18,6 @@ tags: велопутешествия
 
 ---
 
-Маршрут поездки:
-
-<iframe src="http://www.gpsies.com/mapOnly.do?fileId=lgnbnxbvuysmqizi" width="720" height="480" mapType="mapQuest" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0"></iframe>
-
 
 ## Содержание
 
