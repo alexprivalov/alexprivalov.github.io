@@ -531,3 +531,8 @@ a.pagination-item:hover {
 .jssora05r:hover { background-position: -190px -40px; }
 .jssora05l.jssora05ldn { background-position: -250px -40px; }
 .jssora05r.jssora05rdn { background-position: -310px -40px; }
+
+/* Lead-in text belongs to the slider below it: tighten the gap above a slider, open one below it.
+   Captions are unaffected: they follow the empty <p></p> pairs after a slider, not the slider itself. */
+:is(p, ul, ol):has(+ [id^="slider"]) { margin-bottom: .5rem; }
+[id^="slider"] + p:not(:empty) { margin-top: 1.5rem; }
