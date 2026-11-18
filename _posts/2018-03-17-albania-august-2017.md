@@ -41,10 +41,10 @@ tags: путешествия Албания
 <div id="slider1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/XTq5yI50Qy_TRofhtB861HMB8_s68QNzv0o41GRmlsicW7kAj0Bp4Omae7i1vVX78PBN58V4FyJV9vsxeSituvyJTJ22Y1hqYhi40u_5Gyu04cFllrOCozCwwIqOA7m3suTuA-XliQ=w1024-no
+            /assets/albania-august-2017/01.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/pbzssLT8c87tyKXXVHMr1gz7ybUoeDh6nK12lHgfMmGjtf7sau5uhzRYii1nxM9TV-jKQt5c10Be5K4GcvIMJ_bhuOn3cAzh8AfiI6B9n5x8zLTqjxOwR9LW6JFrnUrBOvFrXOHpFA=w1024-no
+            /assets/albania-august-2017/02.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -63,29 +63,29 @@ tags: путешествия Албания
 Так вот, о Шкодере. Это достаточно большой город, в некой мере "исторический", такой себе албанский Львов. Поехали мы туда из-за крепости Розафа и Скадарского озера.
 
 Пока гуляли по городу, авто не трогали, одна из причин - это узенькие улочки и пробки на них:
-![](https://lh3.googleusercontent.com/E7STkoxDLMDssrtd7_ORzYpI9rSuBdyTBKrdho5Ck3jvIPEtX1gAEqTFo9YG46IEdL9xDhylPDE43-JitURU_LUXWRbCcOEVVGsReM6ViRBBOLfnCC6X3pduo7ZSS5vW39RHnW5uXA=w1024-no)
+![](/assets/albania-august-2017/03.jpg)
 Хотя там ходить нечего - небольшой он.
 
 Пошарпанный Шкодер:
 <div id="slider2" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/3E4czseG_KVOiZXQf_fx5YLiiqtnUApWTLZC1t83eTitB0iGgnsrO1EbzK4ajs_8Lq1xWEc0zURu4sljoN83mk81WN3sCSyP4tq8FA44h7YuQ7fPlRkAgb73oV0_xWWOiCZCan9Hmg=w1024-no        
+            /assets/albania-august-2017/04.jpg        
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/tm1kJnst76ZNzDdA6SAD-aP3Q8Yg6FVlKml6vFmvbRhz3VayptSQe3Z0EKu5zgFavso0Tur1j5p-Y6gBkBW8V-BY53FiGvDCFObZ15jADyHKThpqr5gpWUynpjPIRjQNEajjU1fhaw=w1024-no
+            /assets/albania-august-2017/05.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/sSlnaBNsQf7UUEGSZxidi6zLfUKfloHd0d82mgzEgTkBTXKymm7OtfwkMj9yx6hicA0jcFn3J8h6_vYwyHJwb6nqWFtKw6Ump9ruS-2ZVdcZFaTSYzmZYkX_NZdZIZ0jZV_T3690BQ=w1024-no
+            /assets/albania-august-2017/06.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/BGAhhCpuahWTnCXMbBONqMNwSUCHJOrRaPLFXqkESTz3ITn5Ss-iRQ4MzO0rPFTbLDzJAsSlHZeg3But_S5qYvO7EAujg12I6pxI3gk88A5_2azWLEdL7D3SzOveRFRP6aB9lsgDSg=w1024-no
+            /assets/albania-august-2017/07.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/-PqDnRxpH3yxd7DvDbwNh0hKMA07u5IQV8A98OAPL060n5oy-zx3wWObKP68txXdOPslkwVMnz1q1f4HR6ZO4bTaSwimiDP0O2VSgMs_7rPZDAGZhMIDBD9RFAj_AQwJle4VuEjyvA=w1024-no
+            /assets/albania-august-2017/08.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/mDL2f6y781xLPv8etuamNFKTARyXVHWctSLke1RYtuuHO5JaRqZHUnkAhdYfwvHKmm36zDhWPnoV7TXy17FShJfWbqKPnfTwTen7S8qfVmcMYYGfBvHj_tsAX8NLdkVOSKXFknWAEA=w1024-no
+            /assets/albania-august-2017/09.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -101,16 +101,16 @@ tags: путешествия Албания
 <div id="slider3" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/G3_QZBddVWTbq9BSD37VFjyUaUJpIV_YiZNc-b7dzaFUJtzIKI9S4-LgPpqaMQcVMyX0f6uOR6TFlRKWgelEUI1q11dRQb9mBCEPWeWAs4oL1kIH_5JDar6gF2jC90VGqY25WPlhoQ=w1024-no
+            /assets/albania-august-2017/10.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/k8sVB2wu6q_ftgt_hq2z4rSl_qPjJO52ia88IGZNKndIwDgYABdJLGuZlRaG_aSBacBuWVGD0qDQVmLDLfW3E8g8s5yLwNKyIu5iL3Ua9QSNmFISl3NCq2W2ReLmKuf-CuoL8oQ9Eg=w1024-no
+            /assets/albania-august-2017/11.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/1HRgch9IIffFSumXXqyPdQ5WTqVNJI6lOMYGUJ72qT1e1Ymr8mwKjxxS_Za5sXrTgk-ttIOww9n3Bxzva9KRp-PjplRgNM0z9b3ppjfSEYJt1Z6jECElBJHPgDqm4E6_MVAAY8YV-g=w1024-no
+            /assets/albania-august-2017/12.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/DwzRbezl3SCNfnULBLcnFxPK8ehN0Fia04AYVU9VvpNKg8elOXYzXotVoNW4cu4NFxiltWO75pvWNAcu7bmsOfUhY2PtESSIURuMq4EGqaaWMjfonwxtGrHlP6wYxxu9o8aY6H0XGA=w1024-no
+            /assets/albania-august-2017/13.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -128,22 +128,22 @@ tags: путешествия Албания
 <div id="slider4" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/-p4_O14mVtN4wPVB2HuqI1bPIjcT1EhRiNEc0pQiuW_9f07vLm9jYtWNLXouFU9bftUCFMne4OjA3x5JsCPWnDFV1oOK50rLQAlTiv0TgSGyI0drhKAEjmiiFWDHJcDtcMjq4LaJ0A=w1024-no
+            /assets/albania-august-2017/14.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/rndJ53QZmoKEqWw71fr8TRunjdlN-dTzZcKPrkhiiXBN5y0iYUaGDrLv6VZyzzxT4Cajtr_tqCiswnuARsaHIBuIbS2NautYSUKdROIVnQN3r0zl3wKK4qbMgOcjYlvBf6s3VAjSHw=w1024-no
+            /assets/albania-august-2017/15.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/L_PWjV70XmYXmtniDyZJm4wK3KBnIhtPoGTxBaH1mw8CwUchgGrvy2FPeI74sW8ksBX8aTCkOa-HlrJs7hWFb-saoJW1wDoufe5QS4BeCYvnTcaJvxLoRTX35VKaVniqtYzMNrnkTQ=w1024-no
+            /assets/albania-august-2017/16.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/PlFxELXKTgbsH_QODgfZQOQMPcG229F0LNDmofbVXHvh0D0IF72udWN7SI99gDb4u1ZkxbeFM7EEcZDaiFBSJILU3BiSmvS-TAOObzG0thIqZeM_zQT29Kl6lC_8s36x_xzsFUJY3g=w1024-no
+            /assets/albania-august-2017/17.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/MgUuToOy2ioLUs0chByuRUmTOqYPXrTV7XDEinAk0AzwQt9t_sOxHSCe4dekmeSFfjq3v8aVOtB3LjWE3ZdvzI43gtYa0SEBaf3F7O84vpybPH1k3aOwP-_NdiENV1Z0qs-iKy7qfQ=w1024-no
+            /assets/albania-august-2017/18.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/o0ufLMghLsNY1nHSs5YjqaZg64rxPDSDDZfc0EfMGSgIcllhwbuKsk49RXN74Tvn_5lmxcbOLo3PmYo7NfvxewYg_xnY3y5I5bMQog9n5C9_nxm_nsLYqVh49hC12APZquJRPTLutw=w1024-no
+            /assets/albania-august-2017/19.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -159,16 +159,16 @@ tags: путешествия Албания
 <div id="slider14" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/Xdf0utRQQiY4Lu0Wc3V606WIj-YznNkNUBYldUi69wYeLEpHorhaAjPflAKAQ-ns93opByrIByl4XUI18Et_tHlA3A3b-jraObPUavyOfuyBTrHIGfmhdfu0_UGgERx9unPnNp4iQw=w1024-no
+            /assets/albania-august-2017/20.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/1Ur4yXBnIgpsPZT9oBIpSd9uqUk6W4E2XTnKfkATxKi99Hjrt2Sa29_zKGYp_ncLtlcDdxzJIqSeqD3Mj7V66sidsQcf9_SYka6E6xn0IFyEFxCJDbhWCDcjJpkoiTOvuUg8bnnD0g=w1024-no
+            /assets/albania-august-2017/21.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/bIf0-QHrIxtasCr4kAkFCwqrNrwppEnJ5G8IQUWI59-dUpbcmpCo7vp5_xX1S9BuXe7kpthg-RMlhCamMP332um6bD1Y5Wqc7KrvShRwdyvZIwG9amhOh1fgFGAXc6gojeKoZAV0BQ=w1024-no
+            /assets/albania-august-2017/22.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/9dELYCbceA_N0DHfo7A_qqX58_e6tJDjO45y3OIu5ZnJjHizqNnPND03LZuug-vWLGtrVhznU52dTCgXG9ApzA1T2Nw_m7v_5IKx7Fd_5k41zzXLrzTpwZkJrzz9C3Yv77fF0KqWxA=w1024-no
+            /assets/albania-august-2017/23.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -184,10 +184,10 @@ tags: путешествия Албания
 <div id="slider15" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/92I2G8xqj9ytNNzPiR5cyTSuVsukUOnMLQPk2yJg17AVbY-mE2RROMclzb95g5yc9xhmCYbKT7toFYDCTWlrsSvw37c9XiiVt_HvMVfxxetTaDW2uSdeMZroi9p9z87zYHKZ5cDwIw=w1024-no
+            /assets/albania-august-2017/24.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/x8DA0duui-kw7HdrQs9zOA1o-GNT2iqWufKqGmIY3jmdu1XOKm4MY4jQtdyaGoFhDD6v3LKPLVxNyIKbTfu2K-JRNFaYlX44OP1J6XZT1fhyiZynnUq1mqVb6yoiC46BdioAqFpzXg=w1024-no           
+            /assets/albania-august-2017/25.jpg           
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -206,13 +206,13 @@ tags: путешествия Албания
 <div id="slider16" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/xIXSW1Olcgf5jGvQ9SDEgxJPdnChBeJcMGYdGBdrZM3igjtx_73eyDpf_9XIQVmD6dPq0l-7s952L4ISb88sMuMuTpqAwygBwp_h6Z_pn2v9b8Rw6l-ibiyw7_3o60Y5cAEyaGg2Qg=w1024-no
+            /assets/albania-august-2017/26.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/A9yjQCfqTa7fG3_FxosRtj6AV6kYnzIplX39IluBhNXTcO7DgBYKSV6x7Jma9HpFfQlcxMxCLJo5MnVtrJ-Ll0adw1XDJCGCwjo2H9Se1c4kB4tczilFX5eI_5AK6xmQrlVjcCo8pQ=w1024-no
+            /assets/albania-august-2017/27.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/8m1ObiyV9UXEXM_1oEKkkjJ2jkmVFQrLuHoErzEg7brj6aJKk_7rg_nNcnWgAQ23J85Jn098gQ2Q6HP12hOuqQUHhdJPmSwZCOkUTQyUGy5uInKcmqXWes8mTPHU2VhgmOHLN6yHAA=w1024-no
+            /assets/albania-august-2017/28.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -227,21 +227,21 @@ tags: путешествия Албания
 В интернете, когда о нем [пишут](http://sasha0404.livejournal.com/438941.html), очень часто размещают красочные фото, на котором наличествует река. Наш вариант слегка посуше, не майский, а августовский. Самое влажное что было там - это наши тела, которые обливались потом из-за адской жары.
 
 Дольше пяти минут там делать в общем-то нечего. Себя пофоткать, помочь другим туристам, кинуть в последний раз взор на красивую картинку, зафиксировать ее в памяти и с пребольшим удовольствием залезть в прохладную машину с уже работающим кондиционером.
-![](https://lh3.googleusercontent.com/sOYJORSW3ohReqQ_8I5_aFH1OiQ_dwZT6-bGCk-JoCbBnOJMwNMWsb_QKJ-8b44x3xxYVp-erMJ6ZxSKbnnYitAl6jS_RTRdWSbygA35zwRU2P9PDJ7Up0qg74lmrHZrSMXs-p-CpA=w1024-no)
+![](/assets/albania-august-2017/29.jpg)
 <span class="signed-image">Рыбак рыбака фотографирует издалека</span>
 
 После мы потихоньку начали ехать в горы. Причем потихоньку - это буквально. Не знаю как Аня и Ярослав, но я получал от этого колосальное удовольствие! Окружающие виды захватывали и есть время спокойно их созерцать на скорости 20 км/ч, объезжая ямки. Я то и дело останавливался у обочины чтобы сделать кадр-второй на фотоаппарат:
 
 <div id="slider5" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
-        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/KEk9XTEusYdHMTQe_jIJSSPcOq85iT2bY3Gd7cyv0Q-zz6K-aN2GYfXA52qOWVmMqrmgNHw-PBEAtBfKgl8PREA7WYTZkbkW7Tev7unBtLVvg7G3JEc-Oxh4MWQb18IHTOAF5gY4Vw=w800-h533-no" /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="/assets/albania-august-2017/30.jpg" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/Ry8i--k0z5m3ALmAXP1Z8mbyskfMKuYMbtfGYbVXEmGdUGb9ljcd83aUu9Z9BsPFrRdENr2Y6mOyJxBjd4ZEAg4vapUBJyMp5PlBZUPpDWVOsS1n9trdlQCP5yZrLV9oz5me42JOzC2mVUgD838_Bwdw-v8r0JbmegcVzV0aJsOfVPM9leG9RusTuH-8kERpKQfqcFifHlD88HW7P8aNTiLJ5EWx-dcgBWfzfVurfndXvf8P8MG-ZYXwKdyvawQshL2Lgg0z3VayewinBfQL2w6ISrGAleQ1fGSMhpVnqQrR1HC-7XIjKTB8L8hecz6iVyGqraA2gYFfXztZxeQ-0SirnGEkVP89C8vXdERdqKZAKIWFxFGZslgyAMgtPoRj2M_ZXwjOBCh6CuuD_8dDSoWLElN1f8XjVQ9JWM_mEXtcoi4ikDEkndrY4Nj8zN2IM61h4zYpIxBH_RTbkKl4e9AZDMOM5gT09igQi0befHA4-BvzpsA1RjCDpE-7HlsDUsIv7yvk3HhHwubNAVk3kbtiJ73GSjEtI_DBT9NhqG8sm2KcjPK-D4_Nk_hSF7NPkp2SiJFStJZJKtj62UUl1stEGM6BlHirWtyF3tLA9lw9XVrP_yQ2=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/VsFYX9ne_U9RgFnTcEVAjuD7Mr7JJ5ehK7gm6HYvCvk_VeOM8b7-5VIs3q46R4db29OTNnnxGqK-LimuPpP1tt87vPkma1CFN8fNMfueVb6pop6uda9EBDhGnYzOSRFdIekLRKTaI7JE6zSWnYWz9f2HW06b7is6c7FHBcwJNKH17e_CLiAxmRyfc-LA6WPA5hTJiWy_cW8WVRxuTwQEQ8NleFF-WAkYKc91bbcsmDHJwaxmn645e6BWquxOa5p76O1zoAo4AwueKyk8NQWxu_ks_J76xye3saD-pzXigbFZmq5I8eh7N161y29fQ-UDVbwUSLltWT28tJSlAEgiYCeMdQ3J5WkhSPJfU1_bOBeT06LSxl9XHfT--tMKUInrBVQJHuIY3iyiKqMrFIzPL-yyqyi_nI6WjDutrPPjE-O3XMq39LFJhc48_dyWGmHSKCC1KV8T2AZjdznRri-tggzUzyCfKHUDQhOOabqUltkOyqteEb6f8WDI266HxX4IlHK29XwjekNouQtElc1YQxN1eNioGVO0b6rSz5bJtBRP_GkFbytr1DQTS1dfSw5E_lnf1cyokLSQq8sImybM752iLbkloLp2xUZigCkD7MBK2UJa67uh=w1024-no" /> </div>
-        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/y6dpSUxsPLo0lG6F3faPJpWHwnjzoR6VlgobjJClZ7gFLLBcMooLneSXW3pBO984Vxa-pTRtg0rpNhx6m1wyxwmy8NKhj0hXKcq1hKjnGqjrxC1puqF1FzrDDggVoinctRGc1j-54A=w800-h533-no" /> </div>        
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="/assets/albania-august-2017/31.jpg" /> </div>        
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/12VWeIxtpaUg_9hEwwuvdx3UdBUvnxtdSz6nXLvYm_8ZD7Jb_6gE8XzG0NzlH5Ziz3WqKM1yGC-E8C_d0heWmUQpLagJMyx0EpXbCR6F15ho8uk6A4jP_LPceYXcZ6Yw8s4fsTt5yaijsXOPunkgmfFsgHheR7oYPXMGxmKqL1ulcBGVbtFJA1phQSqKAt3QXK2K4MR526GSQMa7JDop0iXpRaArkTAQKJBRGDk5Q1lagz7BWWOtPSH4zuiB8k-cFzwKccC93mVMbkoF63gx9h_xtw1im_9xkeXPAMxegDZauaZOQn9laLzSQf0B2TQxprazeIL7K4Mxw1UWha7jLKUtMZ7YmJXLNylOZJYYH6n_ZR-4_zobnzqCF6SA5c6tlFHxzEZIbQRC3c_HlveArGii4M2Yjv_pSNx-tPDKJ2jtrVq-57u-ZSv2ZUnwrkb0GdasWPCaFnskAsmktiaOA-N1CYmeqCssj2YrQOjYwXdHEsRb1ANLf65OZ79QWTJisdNneD4h_puyHq6YYhPejeH1xPlzdJEmHfWvKAMCvZaNEbKiKeT32PtYVmAi3wDGpM7Z6d0YS6JumGoUQEqXwXPu5EWTDS1iDdxiDon7jJmh2uHDEgAU=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/RFOZkVGbXW3f1xdq-Vnla6uv8ig5PNOtxIfu7vDHdT5hLjV1ogx0QU3wUgUM4PMKuOJWK3TsC4MmygxrdoYtKIQ4M4kiwy-3i_M3km3IDiHirmA9PAkHhv6cuA8f_t2UYEJ4TQVI1XBd1lC2bVbU9az3IuLAc3ZP4f_2eSG1QGnvgHhMS8MGGJlzVhH2aasam3LSfdmyQVpT8J_6u58BMcyoV6Q_s9h3rn0rdsSx5M4pTzPZqd9VXcjCPszbcGIRzsuiRl2jidlSy7l6J3VOYniwPnOKRHFJoJ_W1NDcP1p0dcdw_0zvsy8_NNUsOyxbejSDmCZMruKn4KVzdHpLXMjqY7P0e3z58NUC10SLFfrMENIeO9sE3QFdsY3XP08t5ufvxa_QqLXcm8rwfVWHiTODMPkNlGL7QL1FAui7mu7yn7Nipyqc8gSMLFqXXTTl_UHsPvNZD_tIYN_5wbMJfFMOgsfAfQQpPF25H8DIzkUXI210dLr2JIke14VeInE2mKG9jpVssBky53VgmRkfZ3GH09lTd7ll2XFe_7MxNqXytXT0c8TsF7PmPKMKFHXHKOKuNcsDgMqMBhie1beYoCjEBMi3Xu9YKnfzvGBKUo8HqQfe2iTa=w1024-no" /> </div>        
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/tFgOICmQ2YHOxjiBXXzlOT1uuWfFIHsWxY17YWVEX9-FKbbL1sfxB7RkL1tfbB98QMi7bOePBSc3cJvf-oF6TMgbeYIK1-wTaoTXe435PiEV65lYBpqaCcKAjOK0d41Cs9uJi5eSjKkWE-t1QNCQxRG6KzU8hbX3b6VUx3QFH3o7zegdqMtTQvu11oU9olrEVfxDP60kaxXujW5J5ucHSGE0NgquLIktoJ3rKEgHShlkTfCPkgsxJOI95fTQQ-IE_9UEe-8JhEvMXLCLCtJo7YnnRVYjezSkiVpRgtq130T-RzjRJUPWhFvBEqwlREpoussfYfAe_UpkVXl7SaQs-PFIfRgOUUqnjifn5CtWJlnjDVxaZku0tY2x2fGEiPg5nxhN1rjd1AJn2yGYCdF321HW5pKRiYPOsC9tBQ-mQkafodzPbq66HCYm8RKZfRwvQ92kiEZq46KkS0VRWUEivwwFY3I940xkSpD8AchLZWNQTZY1Y4wiZlO7vZ67PyPI9JDNznXg0f4nvl-US7oHhuRt0SNJ4o9zA0KJ4MLbmPpUYz_oEWk-RjTKayY5mGelPlBahBtexasBbNjvO94OlIQ0WOBrkgQbgVtHaIDArL1Q99oCmOJc=w1024-no" /> </div>
-        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/EVHitN5fFMds7WF99ekwOHNpM9PxNzSYPtS4ZKj7UOtnLvmuxVvLz3ssEcHWjHoTMDkUH9garMqLJuZKisqAChRDK1u6gBUcWm6zWKELlNSC2GHbvpGKOoQgPYfWCLIPeC03NNWchw=w1017-h678-no" /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="/assets/albania-august-2017/32.jpg" /> </div>
     </div>
     <!-- Bullet Navigator -->
     <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
@@ -262,7 +262,7 @@ tags: путешествия Албания
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/XDI60FRECfwQpmOKqOSXWTPaUpS93BmUn2Vg-TAW3e9Va4Hi1cgz9kGbWBEJOR_fdTqDFD8gVvrRrX9PzcMUK9_qYiMMvDBhCiqVhXqWq7skBruPy1BboLA7Bg1qCs9XCnBaEjP2sb09ku1CM1t-JRLT8j16ZE6Kx7dNSkFUFRVoSHJsF7EAdo-N4f0bbHfMslQFA2O9mfDLw1Sr7p47KMHPjPCYJbi-JRAaeC2Pj7CYI8boVrzbMPMX-YaRijDh1nFTaos5wWjyolXh8AET13tF0yfZxKFV63mLJ3hP1hQzo3LWZvN7TxNRMLDf9pvW7EsTJrZolZTJJ0q1r07kbDJrmnxprS73pdY4C6vr4RhnUdR-QZdy17YHDSuQXuE3lErsGIUpgHhj2lDg81fIBqmn58rvKDhXyvJz74bzT6JALKH4SuK4KQ996J04UT25lQKYzueyAuaU2sUMT4pTJAHkLhPlg9-WCPQqEHgf3AXmn9dmH55tHwxTFGAG13NvnFRuJEb4wi9oHCKPEUCvAYVPPgya6MykbCLIh60-27zjRW6jpI4M6oCfdehVeQlshCDfmW8iFvF-Qgz2mg_PkM70yPW5Xm5d34i9ciFDpXj_aSnwoDMz=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/WQ8qBDxxGyCoIVKfQpKQhIEChhbLIix9LcGJvEa5aVODEZKk0ctKl9CbTuphRH7LDgYhclcGBtWxdua7q4ATUJrgxUjYMGMe-tV02-bZpfposBs1cFrR2vKi2IYys8ztpxHEKuk2bojmwsxbr3DF_wRGlxx8NybYt307FLwNihoQdFk01yzKChataQReB2cF13pky7HmfUFZJPxg0Me8A9fiksv0Iy52BuGVbTdHtA5QEhvfw3IDLcjB3X8G9zgWdbiCFcR_EpTR7Gsx1qquOkTD2Xxnup5XhKYi_xQq8xhP0K4HEFrjMwcM0IRWqgaXOkouoPrz8JYQ7GzesW_jNz14AjPxaTYOR1lWdy_T_9fsp_mDaY9qDdlKdq_oxuA3F3HMxk2wkL4mNMzppHJIEmMCTmparxEI6ROXS5I81KS4DaSzCfCIh5fzmeraxXgGG2Vcjg6qEBy7AtvdispvgM-tg5pTpr44R9V4JkUTFvG5iNWD6Pnb3_bS7XuxkZNg9YZZuooKqj_UjdUl8n4h-CD9VeV5vsZNv5h0ruSf1KtYq_enD-YUR-hE8Lq_uASdK_jvajGDzdr1eQ4VuLTxnRe0gnkiIiI2v-7wd_rhfuqYSlMCKGmT=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/xPbNmlnUHr3-p24XH-dDKcHDbnwM_xZLfXlxv745ltYpI8G3Vwn5cRMNsMZN4sUG08RIOpO7BUEtUuYfuONlt_neFXGbxkoBElvv25k_jEJuXE0vYfWXlxUUH-pFSsrtf_hhP4UZxmhp6BNbbsEaD2ZqWY1EQeGX0ezs-G3GXAWHE1qvCABDHiFbGcTxerUxng5RYyB_wO7w74E89tPaqDSGDRp27DOuVTV_GeUcEFhubzCzKrSskxB39Dv8ztqoEQVbjSI4eL_orTvmI5EIgxEU6MeY7FUllw0V49KNFvE9rrnkL2kG_F3plpzdYoqS1AalCckTQxAhFb5atLnd-nyx_VlbASKKwGlYRvmNxHPNEdYXoOXS4ICEgovOEawmtL9pyL732ipp-zPQs5vp1a0s7WdCtkksDstsDeoauovbghMvS_myb4o0ZfZEqbees5y9WRB1qmp-e6FFI-I8goFLOXCbWVVkxR3UpXbx7BHDlJY2E87yDTzS1HibsrPDZy5hWVOMzmbbC0eetGxqyyUBVk47RtHBZmh02o0SvES9bZjsWQkuct3q2C9yBh51AOzGUbDWOlrj2sLqabDKLLNMDAug3NYuQTOqi6ZS1g=w1024-no" /> </div>
-        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/LEJ5zsk2MnIZ_qvRPv6NHwPJXVZ0aZsaXlzuy_-CoNLa_s-JYL0ZYIAtML__VA8BC7465tUlSe-02aNTN4efTfmugILZQj20dhFmj-BiwpDjOdgFAujKpDr-8k9WNdqBFHT3kF_Npw=w904-h678-no" /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="/assets/albania-august-2017/33.jpg" /> </div>
     </div>
     <!-- Bullet Navigator -->
     <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
@@ -299,10 +299,10 @@ tags: путешествия Албания
 <div id="slider24" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/2OgdvQD0_xcwYtozK-N2ETnXlv0YsV3PlKm34s923fXUnd5knC2f4Y6z5NZkVWquohnqEx4lRDS38saTjsqYwtQGUUCjRnCbsptkwc_Y6SHKSEn9nsMdJk8qtEsJtf3rHMym8rDntg=w1206-h678-no
+            /assets/albania-august-2017/34.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/7Ny9ubCwhs6B_GJmjOg_bTPid4H9kE3ud4gvPVbMyexRakAuTOrCqsTKGV07CyBUdqfXHw4vD7ohpoK5gTNF1caIf92YMCCujEpmdDnlKQY1tLJlV9PfEC81Ilz6iMdRSQPF95PV6Q=w813-h542-no
+            /assets/albania-august-2017/35.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -318,7 +318,7 @@ tags: путешествия Албания
 Местный парковщик, он же продавец билетов, постоянно тусовал автомобили туда-сюда. Постоянно кто-то приезжал/уезжал, приплывали небольшие лодочки, зачастую с людьми-пассажирами, один раз даже с овцами:). Пока мы дождались большого "автомобильного" парома, сменилось много людей и транспорта(водного и сухопутного). Уже потом мне в голову пришла идея: надо было нащелкать кадры с интервалом в минуту-две, а потом склеить в гифку - получилось бы забавное слайдшоу автомобильных пятнашек. Или вообще таймлапс видео замутить!
 
 Кстати, местные маленькие лодчонки в качестве салона используют салоны автобусов:
-![](https://lh3.googleusercontent.com/qbZsxR4_gxjJRzcVP081Yrz9r4hfxk-yeXFiSFIPavVWi8_jd91JWSkEdF2k-ETXF9HTcr6WkO-U3V6YDoMx47JGoi7nKxvlBdbDMCkbv4xKJneGHdBYoXZU9S-aJz4NMKOaqbxycQ=w904-h678-no)
+![](/assets/albania-august-2017/36.jpg)
 <span class="signed-image">Голь на выдумку хитра</span>
 
 После того как всех желающих упаковали, паром начал отплывать:
@@ -328,7 +328,7 @@ tags: путешествия Албания
             https://lh3.googleusercontent.com/Zf4fOly4_MbV7eGBPbOZylidiGRiZ5cjRMaDpTBGrPEvpagg3m1MUrH1TIJRa8Vy5Is6f3IYBCMTw7vWzSYhLxbK3hC8r1r7QICs7MaQSeLdubrZLzyDS6Xcq7tryDWd8ywxfbqbi3MnzxSepQB49M_6IieTdzWYtf-ttcPfg5qp6Y7iqsoNN-SWTcJFzHMmpK5mO-_LuwJHyQUUFskYgmux--NYbwOB3wH9Goei-Tv-O_YoWwwhORiFG2wDgp5p7eJcl5GV93ryKtLP0c7Suu_JM_jlyOQcq7QX35pgzIcmPe9w5mBl7RU6_2_6D4n2rD0OXIMS4FYgwQE1K7A2xknrVFIPrkG3-7wPSs0_qH-0OqKyunaOa-sKEPJfcvRotqnYCaYhKKpbGYtl-uTx6bLQBkZK_3Qbol42C9C8laAnio4C4CrOrgGbDody2fM4O5fVPIpEr0b62NfYW6w9wlzDhLt2LkOeIDLCkhSqwDHIrHIo1MuuoKYOxh1cHyCD4I41tqEtR7odlIaQDDCqXbvEHYuQBW-NUp_2PLDXgEJjtTp6z8zgKMK1DebkhLeAS67I8OPIe-DaQccQ0wio-2NKgHAGRgQtBUOvmCYxcQj7wepKMRQS=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/68wxa_eCk1aJRzvOd_2LUREQzrgHE3r9k7efb23Efu2w17snL4SL1ejLNw3ZgHOroBBqzgqqhB4d7QDqpvjCTivW463P2MmH8YOAphhG4W2uRples766ec2ZqA-6p6KS8Hvqbcmaqw=w1206-h678-no
+            /assets/albania-august-2017/37.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -397,7 +397,7 @@ tags: путешествия Албания
 </div><p></p><p></p>
 <span class="signed-image">Вид с балкона номера</span>
 Но на следующий день была прекрасная погода, без облаков и с ярким солнцем, сразу открылись нереальные горные красоты:
-[![](https://lh3.googleusercontent.com/qNy-0ouIsXH9k2xel4XWjqKLU9GlOJUb4rSLkPkc7O3nGbH9dZ1tg6703sOBZ4hPrzn1qrwRA8wVy4tzGOTYIKk2tDpsfLecXU_IlLD8uSNiH-H7KU77nBa_b3cBG6bMP26LYZyneQ=w1024-no "Нажми чтобы увидеть панораму в большем разрешении")](https://lh3.googleusercontent.com/qNy-0ouIsXH9k2xel4XWjqKLU9GlOJUb4rSLkPkc7O3nGbH9dZ1tg6703sOBZ4hPrzn1qrwRA8wVy4tzGOTYIKk2tDpsfLecXU_IlLD8uSNiH-H7KU77nBa_b3cBG6bMP26LYZyneQ=w5030-no)
+[![](/assets/albania-august-2017/38.jpg "Нажми чтобы увидеть панораму в большем разрешении")](/assets/albania-august-2017/39.jpg)
 <span class="signed-image">Ах!</span>
 
 Пошли в запланированный однодневный поход:
@@ -410,7 +410,7 @@ tags: путешествия Албания
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/3yHspnkwUm8dWk_tmeWCtsPhVUQiBaATowaXWWwzrqehv9LsujYnQSOMUIH9QjSHEiqkgsMmB8qcqowj6iIH2SKE7hBA2DEJg0w_pLcVONVyeWsnxvxlv39X6KZ46FGe_KrxAa9E2Xj3gAPXFx8mY_iGA10sY8AdLsfshm98vidtUl02LhkWKL6j7Md66uROPbFC1jV2jgRMHkXNNX6OJgKSgS2yGScWIWrU0q2n7Lbz8T77JM-2vFalN7hS1CaJB_Xwhwut42_KXfLq_OF-6I7wY5D00PtCa2KxXLlE3Jiizt1_7iWp9wzLOAB9na2d53u_0igDwMZTw9SR1pcoUfjlpvoO1XosLHuX02iuQn0pNLP9Dk1omzK_492jHpYuY8FXImUDPPM8plL9EgNXmQ8kirXXZxpJN1nhxqdQWPFXlrw887z8fPgWC6l6Y2yKjk6Q7FjCzRY17DPMItrqU-18GcXUCn_naViH-bOxt8CrZT_3AAyJwVOnWsyKP1ToQaDbRZLeodaUPv6K_DRRHQFt_zlHmtY4NvrhPxu1lTxPHu8MuKJ5FRWiKLFB3c_XyV1CC9E423bIL1W4vjAW2yl_j8JAiaU84-tQsKkGyGdk0K-dw1-7=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/p5sIyIe5Lbj3s5JN7Dwu5GpiJJFu-E7miJkEBDt5Bv_jRU9NKfqu96bfs9oTVdqaOmWFYVrtMh3EErcVKNx0fEKNX87DT0WTh4uT-eArgBH5gn0Wyt56xg8U7INzq8wHAzmFCWMxvT2K8KB1u5dRECBqzIpHO3TNUwVvYNbPYdOBlBtI0jzd34d-HDZRgBq9cuVLlfL8iCdKVGHoSW6xPxnh98RcgltSrrIk95LWDZJA0UKkUxeRyaWwBoLvk-XFQqLMrqmkHUlZ7KdGSDBppEAuD-vpXfSrf97nclMs__0o6KoMbZ9hSKAscbrcviw5C_hmMfihNRaelZjhqrP1Sr9uFUhYILj-i31tBfwB2kyO8oJx1RKVe17DM5Z-LKgTKPnS1xiaUqGLjbY88YAhGHLQCiYG0dw8A0PnBZGo0URswtmppIzcXmD11Klfwr2WRtptCkP1bQaZyCwbu-pRlmsXg5bJSo3C_N33ez7czMZTl5OBK5AqqAMW2NxeXSniEtExBOr794tJ8rkoikQ1ogBP1QPvShQFUzrCXQ098zr7sHkQCgctndRS3uOhRJO_6diuOcJEJnRRSIyVLFIZP6gmuIxw4bj_JSuR-2Nt9wbFZqzqnTqN=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-        https://lh3.googleusercontent.com/rNLREKV5Nx_v32RxXoFDhsFE1XBCx6j3fzgtfondXBFB_u0WUC8ZDOcptXlSrhUt1YwYQ0E1kmF7TrFLWUF2Gg3RGTnc6PF0Om7s03lfstMmoXEZr6p9ZnM8Yt88VxpXFBVRlEe1Pw=w1024-no
+        /assets/albania-august-2017/40.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -428,10 +428,10 @@ tags: путешествия Албания
 <div id="slider17" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/agMb5Cy0kg-V23KyLtFMxG72eUOeWpi0sXCUqCxNlhUd15cw8MubRzw_FDT6AoP_t08VMwVIJ-dxDVTKEL3SG7icw1oUsp7fTILjneXFUaJTodNL_3ejLIQexUeY6nCwtTR4qOixag=w1024-no
+            /assets/albania-august-2017/41.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/sGEsWj5I3NYhTvskZV0v174nHFBrP-F9DpGjR3G93F4kVLRVxtzBO5GZ00pUykhIlkOoJEkLODEB6RMY-LSfog6VyiTH0xp8tqNzcSbwoWCFmABE7ZKsVag1ug1UI_Fri1BObKZmaw=w1024-no
+            /assets/albania-august-2017/42.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -486,10 +486,10 @@ tags: путешествия Албания
 <div id="slider18" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/NeELDfY0WGI_lj3uvbTzb_OEeSoTYCe8V4ocdKJBPXUR9P4OujEet529AADIMm9qWXb13a3pToKc56IJto4NdEu93nxzDmFfNJONujEN8lQAIqOO7oSqB1xorjaDp_z6b5YYA_i__w=w1024-no
+            /assets/albania-august-2017/43.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/uBSYehJxO4itbaRLmCJ7QWwKtKgIJpPfVDRz3XVc3O3QAAngU0mkvZH63ux3jMvI1MmZDYQZmsfNUbjjl4x5dzkhuG5znEMmMFpW7udHV1dUK2AacNw8SEeoScuVNQ7cCatTGFPqTQ=w1024-no
+            /assets/albania-august-2017/44.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -519,16 +519,16 @@ tags: путешествия Албания
 <div id="slider19" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/aQn0W14zat94gFgLyEV6qSE3jlFZU9iJwvDFY8vnPrcp02u_rLFhTtUjV8EsAzt0B0bflTDOFNSiaSxwIqkvTm72xJ_gfx44EBtXjeUO5R8ejlWQe8RlX8Gjqpb9s2gl-fOYNktgpA=w1024-no
+            /assets/albania-august-2017/45.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/-EwfCiW_zy-q8Gy2QWlJdxSAkkSJPH1yAADGCnGtJ5qZ3kTDN2NnxZjO9wPXF2yG-2gD_cw3m4VuCi-IC0EiReG-wAhAsHi1YO97hpiAaD7AnvOswvaoYgQJH41EhLg33xg18W9gtg=w1024-no
+            /assets/albania-august-2017/46.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/o1XHkj078l-u6I6D2EirtnDTBAuK5Tq-8rmPZ-dR5deLPvUVvZV-vk8ZsXbrQ2YbMr4Jn0wK5l1ensAvck8dwPed1wdO3vT1f2j5zxFmCgqpTnmLwxIMuw3zRKqbdmlJ78II46q9jg=w1024-no
+            /assets/albania-august-2017/47.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/emdXTGwlNsDS9JElHiC85tK4NR5RFTS-d2dVxFUJ1zC_dolRy6mX8792iPEoMauJkHCEz1OEut1YSjvWmDjONtKr7iEjkXHtt0hhuuBhlLRW2uw87VvsnMct8gkuqDpwlUIkHDQiLA=w1024-no
+            /assets/albania-august-2017/48.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -543,22 +543,22 @@ tags: путешествия Албания
 Берат включён в список Всемирного наследия ЮНЕСКО как образец хорошо сохранившейся городской застройки времён Османской империи. Было прикольно там прогуляться среди старой и в тоже время жилой застройки. После прогулки мы упали в кафешку попить чай. И заодно заказали мороженное, так как уже свалили с "больших" гор, да и сильно продвинулись на юг - опять началась жара. Ну и плюс после почти суточного воздержания от еды опять появился аппетит, но что-то серьезное есть пока было страшно, а мороженное с чаем - самое то:).
 
 Горы хоть и меньше стали, но красивые дорожные серпантинчики никуда не делись. Наша следующая цель - [каньон Осуми](https://en.wikipedia.org/wiki/Osum_Canyon). Путь лежал через городок Чоровода, где мы переночевали, больше делать там нечего.
-![](https://lh3.googleusercontent.com/OEQbWG4AwSgTUFlrd6js6dvSSMOlz18w9DyXl2C-5xZK15vs9wXmviGbA0m0AKYZ-R6AWAFu_fp5oV8JlvgFoyL_vtWq9Y3lMrdF7EHOSmO4iKxfEwqjVepPBh8IGmUJAdlKUbLWvg=w1024-no)
+![](/assets/albania-august-2017/49.jpg)
 
 К каньону мы добрались на следующее утро, буквально полчаса езды от города. Это очень популярное место для [рафтинга](https://verainalbania.livejournal.com/32291.html) в мае-июне, когда протекающая внизу одноименная река максимально полноводная. Вдоль дороги есть пару обзорных площадок, откуда я зафоткал эти шикарные 80-100 метровые отвесные скалы:
 <div id="slider20" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/lhXVhahRN3PpGUjDmNRf8LNlS2zhOKjR5UYfjCD4Cl9OVX6RKsAGkYBBfLJvJWnFNiY68ZOU3vwyxFqYCWZc4lr-BTNG61Z7nU2yYyZMYkEFR7JVYnK1FZ8D5bylxKcSIg3L7B8rqA=w1024-no
+            /assets/albania-august-2017/50.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/4jwvNhJDc6FvY4Y7lbe8xI8MoT-LCowyL0cBm58-8VufNx6tWTjAPsXEG6_2TucWpXwZE8kJTraSjwnscFj2uVv3meT5Xht3tR2bRNW-qdFZ3Dz7A3tERre-6kPkfuc7i9_Weq1-SQ=w1024-no
+            /assets/albania-august-2017/51.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/L4Jdp3dN_QFoaPDdhw1hgLZGZ1CqmSLQOAL3-uCjRsw3GI1OwKoNmFbuUrK5SgmpQt9LPhpmkFu296t-3qMbnmBHRmQhpZa-hDG9a-Q7hiVTjYF3gIaO2WBhMxHXcOpnZUa3TGOkBg=w1024-no
+            /assets/albania-august-2017/52.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/7GRpekg72J7BA_zUNrO3t-RdUwThIC7a06Cb458dZP5XqFetyXWB8HQFtGXBduqMBCexpcwsGoXtKM5ZVBdoFFWVLbvajvq5-q6Ostu5Y8MgN6IopcGsYOf23KA_PcNSoOKx_qeNEg=w1024-no
+            /assets/albania-august-2017/53.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -574,10 +574,10 @@ tags: путешествия Албания
 <div id="slider21" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/2VBRpS8ZwFp9rQZAmv6CAD64eEF92L8U7S2b_IUOG7-6iQQ2MPNq69LfkAocbtmnV4-9lo_4XnwOJsDmMyr7uYYQKi5l18W-eV6mw2XCXIx9DL9WbzwLqU3ehi0I-YmPV4ULQdcpgQ=w1024-no
+            /assets/albania-august-2017/54.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/VUyraF1Sl7M9oiWpvd-j8w6NZ_aiTshtmOdNhOjH8gIHCQVqcTu89N9YRb4gPgM0Ys7S5wYiGc_sVfbll6BwPGyAoDYPCg7n9bajTErI39KdLsUWsrg8asIPsxVGtCB3lFeLOUm66A=w1024-no
+            /assets/albania-august-2017/55.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -596,15 +596,15 @@ tags: путешествия Албания
 Прям на берегу было пару ресторанчиков с морской кухней. Там мы смогли утолить свой голод, кто о чем мечтал. Аня по seafoods, Ярослав все время трындел о крабах, а я в принципе люблю все вкусное.
 
 После попытались где-то найти место на парочку оставшихся дней, но не тут то было. Потратив пару часов на беготню между отелями и частными дворами, мы отказались от этой затеи и отъехали на пяток километров от моря - там вероятность свободного жилья увеличивалась. И таки да, мы вписались в отель "Панорама":
-![](https://lh3.googleusercontent.com/KMmhQjsNLiNez7KqR6rPcu7IKoGkv07VmT1Il4jMA0qAZpa-qTtEPtt8bzk5Ds0uk5WjSC98pO3Zdwfj7wNbTzxfXX2zXM4J7XoRjsSo97nTc_9XyZySynKNrKQARyfGvndnTpkAKQ=w1024-no)
+![](/assets/albania-august-2017/56.jpg)
 Он полностью оправдывает свое название:
 <div id="slider22" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/fdlz7Krzd96RGRWYN88sR8AfN8OrAGs1S8_Hnvx_D93w2di76enq5qhZFPvGeMQxyZNXIxyDvn3G0j4ktdwQa-6wXpu45yMPAzh6QKjTP9L1521qF6JSBev5T5cGuM_6zBheKLeZbA=w1024-no
+            /assets/albania-august-2017/57.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/k7t0YP8vn5dWg2vHxLb0-4d9lfBmIgKZ_S2r_Vty-A0ota3aMCoMOKEuMdtXv8HzTRdupL8xYawBNgipTkODOi1FTh66pIyr4in9RX7zUxGi2lkhDCsgs5c01DXhch4R4TGtmTr2rQ=w1024-no
+            /assets/albania-august-2017/58.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -621,10 +621,10 @@ tags: путешествия Албания
 <div id="slider23" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/5ZR3GFsqsDl-cCLyg2Sj6PId5vGvDG-YNAV6tLxMHuPPIu4Qi2we10CEsQgHtIZ-o4DOp1mTbwmpoSWkKbqWGQMVKpZezR1yG0hyurQssX8cJMF3bfjNW28T8ruSeWooI3L5eTt-3A=w1024-no
+            /assets/albania-august-2017/59.jpg
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-            https://lh3.googleusercontent.com/PSwRBfJOcPRSgf8YEhTNFhVQZJQAHGp2-l0Mv-5moKd525ILGmunHSlJpL-QsmNXTAfSx5zzXMb_m9Y-PddYBuwJO58gHZQ8-6srQFN1SlqY0fnMql9_4cAwQnmgR7sIuLri2YBMuQ=w1024-no
+            /assets/albania-august-2017/60.jpg
         " /> </div>
     </div>
     <!-- Bullet Navigator -->

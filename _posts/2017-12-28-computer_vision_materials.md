@@ -5,7 +5,7 @@ permalink: computer-vision-materials
 tags: ComputerVision
 ---
 
-![](https://lh3.googleusercontent.com/sN44AbDOw0jYjA4jfIxb9_3oJ8Ed3TWQ4HeYxrBX55XUjb0PkElV0RQE1BEhBkPqsH7hePFlhw-_OLNL0Fvulwu1wBQHWLx9DyJRNVTAkjWbhTzpZfJfOHQybk8yMSGbMnRWBm1yoQ=w611-h308-no)
+![](/assets/computer-vision-materials/01.png)
 
 ---
 
